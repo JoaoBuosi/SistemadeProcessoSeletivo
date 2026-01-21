@@ -1,4 +1,3 @@
-Processo Seletivo
 Projeto em Java que simula um processo seletivo de candidatos. O sistema aplica conceitos de lógica de programação e Programação Orientada a Objetos (POO), incluindo:
 Seleção de candidatos baseada no salário pretendido,
 Contato com candidatos simulando tentativas de ligação,
